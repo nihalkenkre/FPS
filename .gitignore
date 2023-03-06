@@ -1,0 +1,29 @@
+# Project
+Build
+Binaries
+Intermediate
+Saved
+
+# Visual studio
+*.sln
+*.vs
+
+# Visual Studio Code
+*.vscode
+*.code-workspace
+
+# Market place
+FPS_Weapon_Bundle
+AnimStarterPack
+
+# Samples
+StarterContent
+
+# Photon
+Photon
+
+# Mixamo
+MixamoAnimPack
+
+# Test
+Test
